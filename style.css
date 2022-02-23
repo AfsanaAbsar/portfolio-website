@@ -1,0 +1,107 @@
+body{
+    margin: 0 100px;
+    font-family: 'Roboto', sans-serif;
+    
+}
+body img{
+    width: 100%;
+}
+body a{
+    text-decoration: none;
+}
+h1{
+    font-size: 700;
+}
+.purple{
+    color: purple;
+}
+.margin-bottom{
+    margin-bottom: 50px;
+}
+section{
+    margin-bottom: 100px;
+}
+.button{
+    border: 1px solid purple;
+    background-color: purple;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+.top-banner div{
+     width: 50%;
+     margin-left: 50px;
+}
+.top-banner{
+    display: flex;
+    align-items: center;
+    
+    
+}
+.top-banner img{
+    width: 100%;
+}
+
+.top-heading{
+    border-left: 3px solid purple;
+    padding-left: 20px;
+    
+}
+.catagory-section h1{
+    text-align: center;
+}
+.catagory-item{
+    display: flex;
+}
+.catagory-item div{
+    margin: 40px;
+    padding: 20px;
+}
+.mission{
+    border: 1px solid rgb(216, 216, 245);
+    background-color: rgb(216, 216, 245);
+    border-radius: 5px;
+    
+   
+}
+.vision{
+    border: 1px solid rgb(226, 191, 231);
+    background-color: rgb(226, 191, 231);
+    border-radius: 5px;
+}
+.goals{
+    border: 1px solid rgb(212, 244, 245);
+    background-color: rgb(212, 244, 245);
+    border-radius: 5px;
+}
+.about-section {
+    display: flex;
+    align-items: center;
+}
+.about-section div{
+    margin-left: 50px;
+}
+.community-section {
+    display: flex;
+    align-items: center;
+}
+.community-section div{
+    margin-left: 50px;
+}
+.half-width{
+    width: 50%;
+}
+.contact h1{
+  text-align: center;
+}
+.contact {
+    text-align: center;
+    border-top: 1px solid rgb(235, 205, 235);
+}
+
+footer{
+    background-color: black;
+    color: azure;
+    text-align: center;
+    padding: 40px;
+}
